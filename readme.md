@@ -7,9 +7,9 @@
 - i actually write my code in HTML, CSS, JS, PHP, SQL, SWIFT, PYTHON
 - determined boi, alway finish the work.
 - little know about hacking, spamming.
-- addicte to counters and numbers
-- i love influence peoples, seeing them using/enjoying my creation
-- love candies and have fun
+- addicte to counters and numbers.
+- i love influence peoples, seeing them using/enjoying my creation.
+- love candies and have fun.
 - hate to feel forced of doing something.
 - im the SEO of matashi! social network.
 
