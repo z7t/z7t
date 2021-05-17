@@ -3,8 +3,7 @@
 ![](https://i.ibb.co/JmcHB2V/screenshot.png)
 
 # who i am ?
-- my name is matihas santourian [**known as mathias777**] !
-- im becoming a web dev at simplon !
+- my name is mathias santourian [**known as mathias777**] !
 - i actually write my code in HTML, CSS, JS, PHP, SQL, SWIFT, PYTHON
 - determined boi, alway finish the work.
 - little know about hacking, spamming.
