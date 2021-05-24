@@ -7,13 +7,12 @@
 
 [![Mathias777's GitHub stats](https://github-readme-stats.vercel.app/api?username=11h00&theme=algolia)](https://github.com/11h00/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11h00&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11h00&layout=compact&theme=algolia)
 
 
 # who i am ?
 - my name is mathias santourian [**known as mathias777**] !
 - i actually write my code in HTML, CSS, JS, PHP, SQL, SWIFT, PYTHON
-- determined boi, alway finish the work.
 - little know about hacking, spamming.
 - addicte to counters and numbers.
 - i love influence peoples, seeing them using/enjoying my creation.
