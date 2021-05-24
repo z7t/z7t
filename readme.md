@@ -7,6 +7,8 @@
 
 [![Mathias777's GitHub stats](https://github-readme-stats.vercel.app/api?username=11h00)](https://github.com/11h00/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11h00&layout=compact)
+
 
 # who i am ?
 - my name is mathias santourian [**known as mathias777**] !
