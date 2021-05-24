@@ -3,7 +3,7 @@
 ![](https://i.ibb.co/JmcHB2V/screenshot.png)
 
 # cool shit
-![Page views count](https://visitor-badge.laobi.icu/badge?page_id=11h00.11h00&title=mathias profile page views)
+![Page views count](https://visitor-badge.laobi.icu/badge?page_id=11h00.11h00&title=mathias%20profile%20page%20views)
 
 [![Mathias777's GitHub stats](https://github-readme-stats.vercel.app/api?username=11h00&theme=algolia)](https://github.com/11h00/github-readme-stats)
 
