@@ -5,7 +5,7 @@
 # cool shit
 ![Page views count](https://visitor-badge.laobi.icu/badge?page_id=11h00.11h00)
 
-[![Mathias777's GitHub stats](https://github-readme-stats.vercel.app/api?username=11h00)](https://github.com/11h00/github-readme-stats)
+[![Mathias777's GitHub stats](https://github-readme-stats.vercel.app/api?username=11h00&theme=algolia)](https://github.com/11h00/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11h00&layout=compact)
 
