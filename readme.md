@@ -29,13 +29,12 @@ i started to code **2 year ago**. exacly the 24 august 2019 when i needed to mak
 the only responce to write here is coding my fav thing to do. its literally the only domain i can exploit all my potential, since im gifted for never give up (on code ofc), i started to explore more further programming code, and started to learn about hacking.
 
 # My record
-### [1. I had the Record of posts on instagram, 38 million photo uploaded](https://socialblade.com/instagram/user/mathias_love_dogs)
 
-### [2. I have the record of most video uploaded more than 81 million !](https://www.instagram.com/most_igtv_videos) 
+### [1. I have the record of most video uploaded more than 81 million !](https://www.instagram.com/most_igtv_videos) 
 
-### [3. Record of most comment on deviantart](https://www.deviantart.com/tpjland/about) 
+### [2. Record of most comment on deviantart](https://www.deviantart.com/tpjland/about) 
 
-### [4. More than 51 million comments on my youtube post](https://www.youtube.com/post/UgyajaCtShvpLBv3yep4AaABCQ)
+### [3. More than 51 million comments on my youtube post](https://www.youtube.com/post/UgyajaCtShvpLBv3yep4AaABCQ)
 
 # Follow me !
 #### imagination.gif on instagram : [main profile  (3.4k follower)](https://www.instagram.com/imagination.gif/)
