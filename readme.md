@@ -2,6 +2,10 @@
 
 ![](https://i.ibb.co/JmcHB2V/screenshot.png)
 
+# cool shit
+[![Mathias777's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathias777)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # who i am ?
 - my name is mathias santourian [**known as mathias777**] !
 - i actually write my code in HTML, CSS, JS, PHP, SQL, SWIFT, PYTHON
