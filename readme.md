@@ -24,7 +24,7 @@
 # My story
 
 ### how did you started coding ?
-i started to code **2 year ago**. exacly the 24 august 2019 when i needed to make a bot for my profile on instagram, everything started by "i have nothing to do", i started to code by PHP then followed with HTML, CSS, JS, then finally learned SQL.
+i started to code **2 year ago**. exactly the 24 august 2019 when i needed to make a bot for my profile on instagram, everything started by "i have nothing to do", i started to code by PHP then followed with HTML, CSS, JS, then finally learned SQL.
 
 ### why do you keep coding ?
 the only responce to write here is coding my fav thing to do. its literally the only domain i can exploit all my potential, since im gifted for never give up (on code ofc), i started to explore more further programming code, and started to learn about hacking.
